@@ -1,5 +1,6 @@
 <img width="100" alt="portfolio_view" src="https://devsoc.club/assets/img/logo.png">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # [PORFOLIO GENERATOR BY DEVSOC]
@@ -191,8 +192,9 @@ Thanks goes to these wonderful people :
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/arpitbhardwaj24"><img src="https://avatars1.githubusercontent.com/u/42579371?v=4" width="100px;" alt=""/><br /><sub><b>Arpit Bhardwaj</b></sub></a><br /><a href="#maintenance-arpitbhardwaj24" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://arpitbhardwaj.me"><img src="https://avatars1.githubusercontent.com/u/42579371?v=4" width="100px;" alt=""/><br /><sub><b>Arpit Bhardwaj</b></sub></a><br /><a href="#maintenance-arpitbhardwaj24" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/Alien0525"><img src="https://avatars1.githubusercontent.com/u/60143745?v=4" width="100px;" alt=""/><br /><sub><b>Aman</b></sub></a><br /><a href="#maintenance-Alien0525" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://ishantgupta.in"><img src="https://avatars0.githubusercontent.com/u/27751740?v=4" width="100px;" alt=""/><br /><sub><b>Ishant Gupta</b></sub></a><br /><a href="#maintenance-ishantgupta777" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
