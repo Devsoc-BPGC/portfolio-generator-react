@@ -144,7 +144,7 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
 ## Contribution
-Refer to Quick Start Guide to set up the development environment
+Refer to [Quick Start 🚀](#quick-start) section to set up the development environment
 
 ### Commit Messages
 1. Commit messages are communication and documentation. They're a log of more than just *what* happened, they're about *why* it was done.
