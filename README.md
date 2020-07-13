@@ -1,7 +1,4 @@
 <img width="100" alt="portfolio_view" src="https://devsoc.club/assets/img/logo.png">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # [PORFOLIO GENERATOR BY DEVSOC]
 
@@ -12,13 +9,21 @@
 
 Create a digital Portfolio in few minutes, by filling our intuitive form. Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link.
 
+## Table of Contents
+- [Quick Start](#quick-start)
+- [Documentations](#documentations)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Contribution](#contribution)
+- [Community](#community)
+
 ## Quick start
 - Clone the repo
 - `npm install`
 - `npm start`
 
 
-## Documentation
+## Documentations
 
 Portfolio Generator user Material Kit React.
 The documentation for the Material Kit React is hosted at [Creative Tim's website](https://demos.creative-tim.com/material-kit-react/#/documentation/tutorial).
@@ -132,6 +137,22 @@ portfolio-generator
 At present, we officially aim to support the last two versions of the following browsers:
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
+
+## Contribution
+Refer to Quick Start Guide to set up the development environment
+
+### Commit Messages
+1. Commit messages are communication and documentation. They're a log of more than just *what* happened, they're about *why* it was done.
+1. The longer a project is active, the more people involved, the larger the codebase, the more important it is to have good commit messages.
+1. Make sure every change that you make is well documented and is included in your commit message.
+1. **One** commit should have only **one** change. (A change may include multiple file changes that are essential to solving the issue/change).
+1. All commit messages should be in the imperative-present tense. After all, you are telling us what you have *already* done.
+
+### Pull Request Guidelines
+1. The subject line should be a one-sentence summary, and should not include
+   the word *and* (explicitly or implied).
+1. Any extra detail should be provided in the body of the PR.
+1. Don't submit unrelated changes in the same pull request.
 
 ## Community
 
