@@ -7,10 +7,12 @@
 
 ## About
 
+Create a digital Portfolio in few minutes, by filling our intuitive form.Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link.
 
 ## Quick start
 - Clone the repo
 - `npm install`
+- `npm start`
 
 
 ## Documentation
