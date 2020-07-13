@@ -18,7 +18,7 @@ Create a digital Portfolio in few minutes, by filling our intuitive form. Portfo
 ## Documentation
 
 Portfolio Generator user Material Kit React.
-The documentation for the Material Kit React is hosted at our [website](https://demos.creative-tim.com/material-kit-react/#/documentation/tutorial).
+The documentation for the Material Kit React is hosted at [Creative Tim's website](https://demos.creative-tim.com/material-kit-react/#/documentation/tutorial).
 
 For frontend related issues contact [Arpit Bhardwaj](https://github.com/arpitbhardwaj24/).
 For backend related issues contact [Priyesh Srivastava](https://github.com/never2average).
