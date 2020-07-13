@@ -20,9 +20,6 @@ Create a digital Portfolio in few minutes, by filling our intuitive form. Portfo
 Portfolio Generator user Material Kit React.
 The documentation for the Material Kit React is hosted at [Creative Tim's website](https://demos.creative-tim.com/material-kit-react/#/documentation/tutorial).
 
-For frontend related issues contact [Arpit Bhardwaj](https://github.com/arpitbhardwaj24/).
-For backend related issues contact [Priyesh Srivastava](https://github.com/never2average).
-
 
 ## File Structure
 Within the download you'll find the following directories and files:
@@ -140,3 +137,17 @@ At present, we officially aim to support the last two versions of the following 
 Facebook: <https://www.facebook.com/MACBITSGoa/>
 
 Instagram: <https://www.instagram.com/devsocbitsgoa>
+
+### Slack Community 
+Here's the link to our slack community under QOSP:
+
+<a href = "https://quarkopensour-wne8586.slack.com/join/shared_invite/zt-g108dg34-qW7vhZcLLCkJlc5xlFby9Q#/"><img width="100" alt="portfolio_view" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg"></a>
+
+[Slack QOSI](https://bp-gc.in/SlackQOSI)
+
+---
+
+
+
+
+
