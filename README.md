@@ -130,7 +130,7 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
-
+## Community
 
 ### Social Media
 
@@ -138,12 +138,15 @@ Facebook: <https://www.facebook.com/MACBITSGoa/>
 
 Instagram: <https://www.instagram.com/devsocbitsgoa>
 
+Devsoc's Website: <https://devsoc.club/>
+
 ### Slack Community 
+
 Here's the link to our slack community under QOSP:
 
-<a href = "https://quarkopensour-wne8586.slack.com/join/shared_invite/zt-g108dg34-qW7vhZcLLCkJlc5xlFby9Q#/"><img width="100" alt="portfolio_view" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg"></a>
+<a href = "https://quarkopensour-wne8586.slack.com/join/shared_invite/zt-g108dg34-qW7vhZcLLCkJlc5xlFby9Q#/"><img width="200" alt="portfolio_view" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg"></a>
 
-[Slack QOSI](https://bp-gc.in/SlackQOSI)
+<https://bp-gc.in/SlackQOSI>
 
 ---
 
