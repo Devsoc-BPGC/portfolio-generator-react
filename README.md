@@ -122,7 +122,7 @@ portfolio-generator
         └── LandingPage
             ├── LandingPage.js
             └── Sections
-                ├── ProductSection.js
+                └── ProductSection.js
 
 ```
 
