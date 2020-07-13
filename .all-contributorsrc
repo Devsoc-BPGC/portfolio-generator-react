@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "arpitbhardwaj24",
+      "name": "Arpit Bhardwaj",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42579371?v=4",
+      "profile": "http://arpitbhardwaj.me",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "portfolio-generator-react",
+  "projectOwner": "Devsoc-BPGC",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
