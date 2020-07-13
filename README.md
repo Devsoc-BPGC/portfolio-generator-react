@@ -12,13 +12,16 @@
 
 Create a digital Portfolio in few minutes, by filling our intuitive form. Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link.
 
+
 ## Table of Contents
-- [Quick Start](#quick-start)
-- [Documentations](#documentations)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Contribution](#contribution)
-- [Community](#community)
+- [Quick Start 🚀](#quick-start)
+- [Documentations 🧾](#documentations)
+- [File Structure 📊](#file-structure)
+- [Browser Support 🌐](#browser-support)
+- [Contribution ✒](#contribution)
+- [Community 🤼](#community)
+- [Contributors ❤](#contributors)
+
 
 ## Quick start
 - Clone the repo
@@ -182,7 +185,7 @@ Here's the link to our slack community under QOSP:
 
 
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people :
 
