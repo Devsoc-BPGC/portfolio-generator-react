@@ -178,8 +178,6 @@ Here's the link to our slack community under QOSP:
 
 <https://bp-gc.in/SlackQOSI>
 
----
-
 
 
 
